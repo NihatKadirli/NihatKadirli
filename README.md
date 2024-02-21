@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nihat Kadirli
+- 🌱 I’m currently learning HTML/CSS/JS/C++/C#/
+-📫 How to reach me with gmail -- streon19@gmail.com
